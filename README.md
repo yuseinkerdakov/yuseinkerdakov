@@ -20,3 +20,8 @@ I'm a Frontend Software Engineer @ [EDITED](https://www.linkedin.com/company/edi
 [yu.kerdakov@proton.me](mailto:yu.kerdakov@proton.me)
 
 [linkedin.com/in/yuseinkerdakov](https://linkedin.com/in/yuseinkerdakov)
+
+--- 
+
+⚠️ Note on activity:
+Some periods may show reduced activity here due to my work on private repositories and other platforms (e.g., GitLab, Bitbucket).
