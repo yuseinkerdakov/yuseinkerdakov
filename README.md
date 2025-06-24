@@ -24,4 +24,4 @@ I'm a Frontend Software Engineer @ [EDITED](https://www.linkedin.com/company/edi
 --- 
 
 ⚠️ Note on activity:
-Some periods may show reduced activity here due to my work on private repositories and other platforms (e.g., GitLab, Bitbucket).
+Some periods may show reduced activity here due to my work on private projects on other platforms (e.g. GitLab, Bitbucket).
