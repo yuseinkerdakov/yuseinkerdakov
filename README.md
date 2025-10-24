@@ -5,9 +5,10 @@ My name is **Yusein**, but some of my colleagues and friends call me **Yu**!
 ![Yu from Rush Hour 3](https://raw.githubusercontent.com/yuseinkerdakov/yuseinkerdakov/main/yu.png)
 
 
-I'm a Frontend Software Engineer @ [EDITED](https://www.linkedin.com/company/edited)
+I'm a Frontend Software Engineer @ [Finrax](https://www.linkedin.com/company/finrax)
 
 #### Previously:
+- Software Engineer @ [EDITED](https://www.linkedin.com/company/edited)
 - Software Engineer @ [E.ON Digital Technology](https://www.linkedin.com/company/e.on-digital-technology/), under [E.ON](https://www.linkedin.com/company/e-on/posts/?feedView=all)
 - Software Engineer @ [devlabs](https://www.linkedin.com/company/dev-labs/)
 - Software Engineer @ [Three11](https://www.linkedin.com/company/three11/)
